@@ -1,2 +1,2 @@
 # pwz-git-test
-Repo untuk mencoba git remotw
+Repo untuk mencoba git remote
